@@ -11,8 +11,7 @@ namespace Notas.Controllers
 {
     public class NotaController : Controller
     {
-        //String sqlExiste = "SELECT * FROM dbo.Nota WHERE titulo = @titulo AND descripcion = @descripcion";
-        
+               
         // GET: Nota
         public ActionResult Index()
         {
