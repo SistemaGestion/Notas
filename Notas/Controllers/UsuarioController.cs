@@ -18,6 +18,7 @@ namespace Notas.Controllers
         // GET: Usuario
         public ActionResult Index()
         {
+
             return View();
         }
 
